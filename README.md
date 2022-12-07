@@ -1,2 +1,2 @@
-# mobile
- java and kotlin
+mobil
+basit bir buton ile görsel değiştirme
