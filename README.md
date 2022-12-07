@@ -1,2 +1,2 @@
 
-basit bir buton ile görsel değiştirme
+Basit bir buton ile görsel değiştirme.
